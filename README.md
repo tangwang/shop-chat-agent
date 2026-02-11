@@ -66,6 +66,11 @@ Follow standard Shopify app deployment procedures as outlined in the [Shopify do
 ## Contributing
 We appreciate your interest in contributing to this project. As this is an example repository intended for educational and reference purposes, we are not accepting contributions.
 
+## New Design Docs (V2)
+- See `docs/design-v2/技术实现完善方案.md` for the upgraded architecture and implementation plan based on orchestrator + product/user understanding modules.
+- Module-level docs are in `docs/design-v2/modules/`.
+- Evaluation and ops docs are in `docs/design-v2/evaluation/` and `docs/design-v2/ops/`.
+
 ## 新增设计文档（v2 规划）
 
 - 系统需求与技术实现完善：`docs/系统需求技术实现完善方案.md`

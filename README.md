@@ -71,3 +71,16 @@ We appreciate your interest in contributing to this project. As this is an examp
 - Module-level docs are in `docs/design-v2/modules/`.
 - Evaluation and ops docs are in `docs/design-v2/evaluation/` and `docs/design-v2/ops/`.
 
+## 新增设计文档（v2 规划）
+
+- 系统需求与技术实现完善：`docs/系统需求技术实现完善方案.md`
+- 模块设计：
+  - `docs/modules/assistant.md`
+  - `docs/modules/product_understanding.md`
+  - `docs/modules/user_understanding.md`
+- 评估方案：`docs/evaluation/llm_evaluation_plan.md`
+- 启动脚本（占位）：
+  - `scripts/start_product_module.sh`
+  - `scripts/start_user_module.sh`
+  - `scripts/start_agent_module.sh`
+  - `scripts/start_web.sh`
